@@ -10,7 +10,6 @@
       ]);
     },
     39590: function (e, t, s) {
-      "use strict";
       s.d(t, {
         Z: function () {
           return o;
@@ -168,7 +167,6 @@
       }
     },
     51448: function (e, t, s) {
-      "use strict";
       s.d(t, {
         Z: function () {
           return i;
@@ -286,7 +284,6 @@
       }
     },
     358: function (e, t, s) {
-      "use strict";
       s.r(t),
         s.d(t, {
           default: function () {
@@ -610,279 +607,10 @@
               l(e);
             }
           };
-        return (0, n.jsxs)(n.Fragment, {
-          children: [
-            (0, n.jsxs)("button", {
-              type: "button",
-              className:
-                "inline-flex items-center justify-center rounded-md text-gray-700 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 py-2 px-2 space-x-2 text-sm",
-              onClick: () => a(!0),
-              children: [
-                (0, n.jsx)(h.WYw, {
-                  className: "h-6 w-6 text-red-500",
-                  "aria-hidden": "true",
-                }),
-                t ? (0, n.jsx)("span", { children: t }) : null,
-              ],
-            }),
-            (0, n.jsxs)(m, {
-              wide: !0,
-              open: s,
-              setOpen: a,
-              showCloseButton: !1,
-              children: [
-                (0, n.jsxs)("div", {
-                  className: "text-sm text-center my-2",
-                  children: [
-                    (0, n.jsx)("b", { children: "askgrogu.ai" }),
-                    " is free while in",
-                    " ",
-                    (0, n.jsx)("span", {
-                      className:
-                        "bg-gradient-to-r from-purple-400 to-pink-500 px-3 py-1 text-xs font-semibold text-white text-center rounded-full inline-block ",
-                      children: "Beta",
-                    }),
-                  ],
-                }),
-                (0, n.jsxs)("h2", {
-                  className:
-                    "text-center text-2xl font-bold flex items-center justify-center space-x-2",
-                  children: [
-                    (0, n.jsx)(h.WYw, {
-                      className: "h-8 w-8 text-red-500",
-                      "aria-hidden": "true",
-                    }),
-                    (0, n.jsx)("span", { children: "One Time Purchase" }),
-                  ],
-                }),
-                (0, n.jsxs)("div", {
-                  className: " text-center my-2 space-x-2",
-                  children: [
-                    (0, n.jsx)("span", {
-                      className:
-                        "text-2xl font-bold text-gray-500 line-through",
-                      children: "$29",
-                    }),
-                    (0, n.jsx)("span", {
-                      className: "text-5xl font-extrabold text-green-500",
-                      children: "$19",
-                    }),
-                  ],
-                }),
-                (0, n.jsx)(p, {}),
-                (0, n.jsx)("div", {
-                  className: "flex items-center justify-center",
-                  children: (0, n.jsxs)("div", {
-                    className: "my-4 grid gap-y-2 gap-x-6",
-                    children: [
-                      (0, n.jsxs)("div", {
-                        className: "flex items-center justify-start space-x-1",
-                        children: [
-                          (0, n.jsx)(h.mny, {
-                            className: "text-green-500 w-6 h-6 shrink-0",
-                          }),
-                          (0, n.jsxs)("div", {
-                            className: "text-sm",
-                            children: [
-                              (0, n.jsx)("div", {
-                                children: "Search Chat History",
-                              }),
-                              (0, n.jsx)("div", {
-                                className: "text-xs text-gray-500",
-                                children: "Unlimited chat history search",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                      (0, n.jsxs)("div", {
-                        className: "flex items-center justify-start space-x-1",
-                        children: [
-                          (0, n.jsx)(h.mny, {
-                            className: "text-green-500 w-6 h-6 shrink-0",
-                          }),
-                          (0, n.jsxs)("div", {
-                            className: "text-sm",
-                            children: [
-                              (0, n.jsx)("div", {
-                                children: "Access Prompt Library",
-                              }),
-                              (0, n.jsx)("div", {
-                                className: "text-xs text-gray-500",
-                                children:
-                                  "Save & access unlimited community prompts",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                      (0, n.jsxs)("div", {
-                        className: "flex items-center justify-start space-x-1",
-                        children: [
-                          (0, n.jsx)(h.mny, {
-                            className: "text-green-500 w-6 h-6 shrink-0",
-                          }),
-                          (0, n.jsxs)("div", {
-                            className: "text-sm",
-                            children: [
-                              (0, n.jsx)("div", {
-                                children: "Self-host Option",
-                              }),
-                              (0, n.jsx)("div", {
-                                className: "text-xs text-gray-500",
-                                children:
-                                  "Host the static app on your own domain",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                      (0, n.jsxs)("div", {
-                        className: "flex items-center justify-start space-x-1",
-                        children: [
-                          (0, n.jsx)(h.mny, {
-                            className: "text-green-500 w-6 h-6 shrink-0",
-                          }),
-                          (0, n.jsxs)("div", {
-                            className: "text-sm",
-                            children: [
-                              (0, n.jsx)("div", { children: "Integrations" }),
-                              (0, n.jsx)("div", {
-                                className: "text-xs text-gray-500",
-                                children: "Domain check, Google, Codepen, etc.",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                    ],
-                  }),
-                }),
-                (0, n.jsx)("div", {
-                  className: "text-sm text-center my-2",
-                  children:
-                    "Secure your early bird license key today to unlock all premium features.",
-                }),
-                (0, n.jsxs)("div", {
-                  className: "text-sm text-center my-2",
-                  children: [
-                    (0, n.jsx)("span", {
-                      className: "inline-block",
-                      children:
-                        "Note: You will still need an OpenAI API key to use the app.",
-                    }),
-                    " ",
-                    (0, n.jsx)("span", {
-                      className: "inline-block",
-                      children: "We don't sell API keys.",
-                    }),
-                  ],
-                }),
-                (0, n.jsxs)("div", {
-                  className: "text-xs text-gray-500 text-center",
-                  children: [
-                    (0, n.jsx)("a", {
-                      target: "_blank",
-                      href: "/privacy",
-                      children: "Privacy Policy",
-                    }),
-                    " | ",
-                    (0, n.jsx)("a", {
-                      target: "_blank",
-                      href: "/terms",
-                      children: "Terms of Service",
-                    }),
-                  ],
-                }),
-                (0, n.jsx)("div", {
-                  className: "my-4 text-center",
-                  children: (0, n.jsxs)("a", {
-                    href: "https://tdinh.lemonsqueezy.com/checkout/buy/4e8d7ea3-0e9e-45b1-bf62-058ade690553",
-                    className:
-                      "inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 hover:bg-green-500 transition-all group",
-                    children: [
-                      (0, n.jsx)("span", {
-                        className: "group-hover:scale-125 transition-all mr-2",
-                        children: "→",
-                      }),
-                      " ",
-                      "Buy Now",
-                    ],
-                  }),
-                }),
-                (0, n.jsx)("div", {
-                  className: "my-2 text-center",
-                  children: i
-                    ? (0, n.jsxs)("div", {
-                        className: "text-sm text-center my-2",
-                        children: [
-                          (0, n.jsx)("div", {
-                            className: "text-green-500 font-bold",
-                            children: "Thank you for your purchase!",
-                          }),
-                          (0, n.jsxs)("div", {
-                            className: "text-gray-500",
-                            children: [
-                              "Your license key is: ",
-                              (0, n.jsxs)("code", {
-                                children: ["***", i.slice(0, 5)],
-                              }),
-                              " ",
-                              (0, n.jsx)("button", {
-                                onClick: o,
-                                className:
-                                  "text-blue-500 hover:underline inline-block",
-                                children: "(change)",
-                              }),
-                            ],
-                          }),
-                        ],
-                      })
-                    : (0, n.jsx)("button", {
-                        onClick: o,
-                        className: "text-blue-500 hover:underline",
-                        children: "I already bought",
-                      }),
-                }),
-                (0, n.jsx)("div", {
-                  className: "mt-8",
-                  children: (0, n.jsx)(E, {}),
-                }),
-                (0, n.jsx)("div", {
-                  className: "mt-8",
-                  children: (0, n.jsx)(y.Z, {}),
-                }),
-              ],
-            }),
-          ],
-        });
       }
       var T = s(60155);
       function S() {
         let [e, t] = (0, r.useState)(!1);
-        return (0, n.jsxs)("div", {
-          children: [
-            (0, n.jsxs)("button", {
-              onClick: () => t(!0),
-              type: "button",
-              className:
-                "inline-flex h-12 w-12 items-center justify-center rounded-md text-gray-500 hover:text-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 transition-all",
-              children: [
-                (0, n.jsx)("span", { className: "sr-only", children: "Help" }),
-                (0, n.jsx)(T.k$3, {
-                  className: "h-6 w-6",
-                  "aria-hidden": "true",
-                }),
-              ],
-            }),
-            (0, n.jsxs)(m, {
-              wide: !0,
-              open: e,
-              setOpen: t,
-              children: [(0, n.jsx)(E, {}), (0, n.jsx)(y.Z, {})],
-            }),
-          ],
-        });
       }
       function C(e) {
         let { messages: t, chatTitle: s } = e,
