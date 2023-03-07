@@ -152,7 +152,7 @@
                       children: (0, i.jsx)("a", {
                         href: "/",
                         className: "text-blue-500 hover:underline",
-                        children: "Go back to Grogu AI.com",
+                        children: "Go back to askgrogu.ai",
                       }),
                     }),
                     (0, i.jsx)("h1", {

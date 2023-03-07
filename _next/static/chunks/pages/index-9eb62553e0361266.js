@@ -24,7 +24,7 @@
         {
           question: "Is this app free?",
           answer:
-            "Grogu AI.com is free to use with some basic features. You will need to have a working OpenAI API Key in order to use the app. When you use the API Key, you pay directly to OpenAI for the amount of credits/tokens you use. Grogu AI.com has some premium features that can be unlocked with a one-time purchase.",
+            "askgrogu.ai is free to use with some basic features. You will need to have a working OpenAI API Key in order to use the app. When you use the API Key, you pay directly to OpenAI for the amount of credits/tokens you use. askgrogu.ai has some premium features that can be unlocked with a one-time purchase.",
         },
         {
           question: "Do I need to pay for OpenAI for a ChatGPT API Key?",
@@ -71,7 +71,7 @@
         {
           question: "License Key vs. API Key",
           answer:
-            "License Key is used to activate the premium features of Grogu AI.com. API Key refers to OpenAI ChatGPT API Key, and is used to connect to OpenAI's API to interact with ChatGPT. You need an API Key to use the app. The License Key is only needed if you want to use the premium features.",
+            "License Key is used to activate the premium features of askgrogu.ai. API Key refers to OpenAI ChatGPT API Key, and is used to connect to OpenAI's API to interact with ChatGPT. You need an API Key to use the app. The License Key is only needed if you want to use the premium features.",
         },
         {
           question: "What are the premium features?",
@@ -634,7 +634,7 @@
                 (0, n.jsxs)("div", {
                   className: "text-sm text-center my-2",
                   children: [
-                    (0, n.jsx)("b", { children: "Grogu AI.com" }),
+                    (0, n.jsx)("b", { children: "askgrogu.ai" }),
                     " is free while in",
                     " ",
                     (0, n.jsx)("span", {
@@ -1328,7 +1328,7 @@
                 (0, n.jsx)("div", {
                   className:
                     "jsx-7078ffb922cb3c38 text-xs text-gray-400 font-semibold text-center",
-                  children: "Grogu AI.com \xa9 2023",
+                  children: "askgrogu.ai \xa9 2023",
                 }),
                 (0, n.jsxs)("div", {
                   className:
@@ -2159,7 +2159,7 @@
                           type: "hidden",
                           name: "data",
                           value: JSON.stringify({
-                            title: "Code from Grogu AI.com",
+                            title: "Code from askgrogu.ai",
                             [er[a]]: t,
                           }),
                         }),
@@ -4303,7 +4303,7 @@
                           }),
                           (0, n.jsx)("div", {
                             className: "text-gray-400 text-xs text-center",
-                            children: "Grogu AI.com - A better UI for ChatGPT",
+                            children: "askgrogu.ai - A better UI for ChatGPT",
                           }),
                         ],
                       }),

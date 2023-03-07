@@ -80,7 +80,7 @@
         {
           question: "Is this app free?",
           answer:
-            "Grogu AI.com is free to use with some basic features. You will need to have a working OpenAI API Key in order to use the app. When you use the API Key, you pay directly to OpenAI for the amount of credits/tokens you use. Grogu AI.com has some premium features that can be unlocked with a one-time purchase.",
+            "askgrogu.ai is free to use with some basic features. You will need to have a working OpenAI API Key in order to use the app. When you use the API Key, you pay directly to OpenAI for the amount of credits/tokens you use. askgrogu.ai has some premium features that can be unlocked with a one-time purchase.",
         },
         {
           question: "Do I need to pay for OpenAI for a ChatGPT API Key?",
@@ -127,7 +127,7 @@
         {
           question: "License Key vs. API Key",
           answer:
-            "License Key is used to activate the premium features of Grogu AI.com. API Key refers to OpenAI ChatGPT API Key, and is used to connect to OpenAI's API to interact with ChatGPT. You need an API Key to use the app. The License Key is only needed if you want to use the premium features.",
+            "License Key is used to activate the premium features of askgrogu.ai. API Key refers to OpenAI ChatGPT API Key, and is used to connect to OpenAI's API to interact with ChatGPT. You need an API Key to use the app. The License Key is only needed if you want to use the premium features.",
         },
         {
           question: "What are the premium features?",
@@ -367,7 +367,7 @@
                       children: (0, r.jsx)("a", {
                         href: "/",
                         className: "text-blue-500 hover:underline",
-                        children: "Go back to Grogu AI.com",
+                        children: "Go back to askgrogu.ai",
                       }),
                     }),
                     (0, r.jsx)("div", {

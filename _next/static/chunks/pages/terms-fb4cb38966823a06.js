@@ -153,7 +153,7 @@
                       children: (0, i.jsx)("a", {
                         href: "/",
                         className: "text-blue-500 hover:underline",
-                        children: "Go back to Grogu AI.com",
+                        children: "Go back to askgrogu.ai",
                       }),
                     }),
                     (0, i.jsx)("h1", {
@@ -191,7 +191,7 @@
                           }),
                           (0, i.jsx)("li", {
                             children:
-                              "For legal purposes, Grogu AI.com is a product of Devuap LLC, registered at the address: Ste 1200, 1309 Coffeen Avenue, Sheridan, WY, Sheridan, US, 82801.",
+                              "For legal purposes, askgrogu.ai is a product of Devuap LLC, registered at the address: Ste 1200, 1309 Coffeen Avenue, Sheridan, WY, Sheridan, US, 82801.",
                           }),
                         ],
                       }),
