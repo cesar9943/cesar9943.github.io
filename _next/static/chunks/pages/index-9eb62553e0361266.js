@@ -1212,7 +1212,7 @@
                         "jsx-7078ffb922cb3c38 flex flex-shrink-0 items-center px-4",
                       children: (0, n.jsx)("img", {
                         src: "/favicon-192x192.png",
-                        alt: "Typing Mind",
+                        alt: " Grogu AI",
                         className: "jsx-7078ffb922cb3c38 h-8 w-auto",
                       }),
                     }),
@@ -4006,7 +4006,7 @@
                               children: [
                                 (0, n.jsx)("img", {
                                   src: "/logo.png",
-                                  alt: "Typing Mind",
+                                  alt: " Grogu AI",
                                   className: "rounded-lg w-12 h-12",
                                 }),
                                 (0, n.jsxs)("div", {
