@@ -1448,7 +1448,6 @@
                             e.source
                               ? (0, n.jsxs)("p", {
                                   className: "text-gray-600 text-xs my-1",
-                                  children: ["Created by: ", e.source],
                                 })
                               : null,
                             "Your Prompts" === o
@@ -1493,28 +1492,6 @@
                     })
                   : (0, n.jsxs)("div", {
                       className: "my-4 text-center",
-                      children: [
-                        (0, n.jsx)("span", {
-                          children: "Contribute Prompts via: ",
-                        }),
-                        (0, n.jsx)("a", {
-                          href: "https://github.com/trungdq88/chatgpt-prompt-templates",
-                          target: "_blank",
-                          rel: "noreferrer noopener",
-                          className:
-                            "text-blue-500 hover:underline inline-flex justify-center items-center font-semibold space-x-1",
-                          children: "GitHub",
-                        }),
-                        "⋅",
-                        (0, n.jsx)("a", {
-                          href: "https://forms.gle/1mmzLRqGKd3XBAZz8",
-                          target: "_blank",
-                          rel: "noreferrer noopener",
-                          className:
-                            "text-blue-500 hover:underline inline-flex justify-center items-center font-semibold space-x-1",
-                          children: "Google Form",
-                        }),
-                      ],
                     }),
               ],
             }),
