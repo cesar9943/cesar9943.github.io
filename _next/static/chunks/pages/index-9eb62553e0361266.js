@@ -1058,29 +1058,6 @@
                     "jsx-7078ffb922cb3c38 text-xs text-gray-400 font-semibold text-center",
                   children: "askgrogu.ai \xa9 2023",
                 }),
-                (0, n.jsxs)("div", {
-                  className:
-                    "jsx-7078ffb922cb3c38 text-xs text-gray-400 text-center",
-                  children: [
-                    (0, n.jsx)("a", {
-                      href: "/privacy",
-                      className: "jsx-7078ffb922cb3c38 hover:underline",
-                      children: "Privacy",
-                    }),
-                    " | ",
-                    (0, n.jsx)("a", {
-                      href: "/terms",
-                      className: "jsx-7078ffb922cb3c38 hover:underline",
-                      children: "Terms",
-                    }),
-                    " | ",
-                    (0, n.jsx)("a", {
-                      href: "/faqs",
-                      className: "jsx-7078ffb922cb3c38 hover:underline",
-                      children: "FAQs",
-                    }),
-                  ],
-                }),
               ],
             }),
             (0, n.jsx)(b(), {
