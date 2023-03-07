@@ -197,7 +197,7 @@
             (0, n.jsx)("meta", { property: "og:type", content: "website" }),
             (0, n.jsx)("meta", {
               property: "og:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, n.jsx)("meta", {
               property: "og:title",
@@ -210,7 +210,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "og:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, n.jsx)("meta", {
               property: "twitter:card",
@@ -218,7 +218,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "twitter:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, n.jsx)("meta", {
               property: "twitter:title",
@@ -231,7 +231,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "twitter:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, n.jsx)("meta", {
               name: "viewport",
@@ -1351,25 +1351,6 @@
                       className: "jsx-7078ffb922cb3c38 hover:underline",
                       children: "FAQs",
                     }),
-                  ],
-                }),
-                (0, n.jsxs)("div", {
-                  className:
-                    "jsx-7078ffb922cb3c38 text-xs text-gray-400 text-center pb-safe",
-                  children: [
-                    "Follow",
-                    " ",
-                    (0, n.jsx)("a", {
-                      target: "_blank",
-                      href: "https://twitter.com/tdinh_me",
-                      className: "jsx-7078ffb922cb3c38",
-                      children: (0, n.jsx)("u", {
-                        className: "jsx-7078ffb922cb3c38",
-                        children: "@tdinh_me",
-                      }),
-                    }),
-                    " ",
-                    "to get notified about new features and updates",
                   ],
                 }),
               ],
@@ -4032,10 +4013,10 @@
                                   className:
                                     "font-semibold text-4xl sm:text-5xl",
                                   children: [
-                                    "Typing",
+                                    "Grogu",
                                     (0, n.jsx)("span", {
                                       className: "text-blue-500",
-                                      children: "Mind",
+                                      children: "AI",
                                     }),
                                   ],
                                 }),

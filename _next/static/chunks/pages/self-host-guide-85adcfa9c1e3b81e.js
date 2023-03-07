@@ -39,7 +39,7 @@
             (0, i.jsx)("meta", { property: "og:type", content: "website" }),
             (0, i.jsx)("meta", {
               property: "og:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, i.jsx)("meta", {
               property: "og:title",
@@ -52,7 +52,7 @@
             }),
             (0, i.jsx)("meta", {
               property: "og:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, i.jsx)("meta", {
               property: "twitter:card",
@@ -60,7 +60,7 @@
             }),
             (0, i.jsx)("meta", {
               property: "twitter:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, i.jsx)("meta", {
               property: "twitter:title",
@@ -73,7 +73,7 @@
             }),
             (0, i.jsx)("meta", {
               property: "twitter:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, i.jsx)("meta", {
               name: "viewport",
@@ -178,7 +178,7 @@
                             }),
                             (0, i.jsx)("li", {
                               children:
-                                "The zip file name indicates the version of the app. There maybe a new version available online. To receive the latest version of the app, go to https://typingmind.com/self-host-guide for more information.",
+                                "The zip file name indicates the version of the app. There maybe a new version available online. To receive the latest version of the app, go to https://askgrogu.ai/self-host-guide for more information.",
                             }),
                           ],
                         }),

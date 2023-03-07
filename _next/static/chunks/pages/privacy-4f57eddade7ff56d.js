@@ -39,7 +39,7 @@
             (0, n.jsx)("meta", { property: "og:type", content: "website" }),
             (0, n.jsx)("meta", {
               property: "og:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, n.jsx)("meta", {
               property: "og:title",
@@ -52,7 +52,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "og:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, n.jsx)("meta", {
               property: "twitter:card",
@@ -60,7 +60,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "twitter:url",
-              content: "https://typingmind.com/",
+              content: "https://askgrogu.ai/",
             }),
             (0, n.jsx)("meta", {
               property: "twitter:title",
@@ -73,7 +73,7 @@
             }),
             (0, n.jsx)("meta", {
               property: "twitter:image",
-              content: "https://typingmind.com/poster.png",
+              content: "https://askgrogu.ai/poster.png",
             }),
             (0, n.jsx)("meta", {
               name: "viewport",
